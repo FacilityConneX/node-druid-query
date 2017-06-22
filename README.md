@@ -5,6 +5,8 @@ druid-query
 
 Simple querying for Druid (http://druid.io) in Node.js. Inspired by [ruby-druid](https://github.com/liquidm/ruby-druid).
 
+Continuation of work in original repo to accelerate library from druid 0.6 to 0.10.0.
+
 Table of Contents:
 
 - [Installation & Introductory Examples](#installation)
